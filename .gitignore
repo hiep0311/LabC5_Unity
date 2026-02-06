@@ -1,0 +1,22 @@
+# ===== UNITY GENERATED =====
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# ===== IDE =====
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
